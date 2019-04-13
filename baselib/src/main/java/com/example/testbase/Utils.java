@@ -14,4 +14,8 @@ public class Utils {
 
         return TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, dp, Resources.getSystem().getDisplayMetrics());
     }
+
+    public static void getString() {
+
+    }
 }
